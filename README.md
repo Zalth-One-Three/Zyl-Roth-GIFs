@@ -1,1 +1,1 @@
-# Zyl-Roth-GIFs
+Open a folder to view an entity.
